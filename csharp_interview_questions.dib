@@ -513,7 +513,7 @@ Run time polymorphism is also known as late binding. In Run Time Polymorphism or
 
 ### Example
 
-![Late Binding](resources\21_LateBinding.png)
+![Late Binding](resources/21_LateBinding.png)
 
 Learn more here, [Understanding Polymorphism in C#.](https://www.c-sharpcorner.com/UploadFile/ff2f08/understanding-polymorphism-in-C-Sharp/)
 
